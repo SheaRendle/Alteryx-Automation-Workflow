@@ -1,4 +1,4 @@
-# Alteryx-Automation-Process
+# Alteryx-Automation-Workflow
 ## Overview
 This project leverages an Alteryx workflow to automatically consolidate data from six Community Hope initiatives into a single, unified output. That output feeds directly into a Tableau dashboard used for executive reporting, grant justification, and community impact analysis.
 
