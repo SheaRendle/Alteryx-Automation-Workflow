@@ -18,3 +18,4 @@ This project leverages an Alteryx workflow to automatically consolidate data fro
 - Streamlined reporting across diverse community programs.
 
 ## Workflow
+https://github.com/SheaRendle/Alteryx-Automation-Process/blob/main/Alteryx%20Automation%20Workflow.png?raw=true
